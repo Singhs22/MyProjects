@@ -1,4 +1,4 @@
-//Sharanjit Singh
+
 //02/07/2020
 // Tic Tac Toe
 
